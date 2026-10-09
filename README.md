@@ -18,6 +18,10 @@ generate-dir <nombre-carpeta> [OPCION]
 	- config
 ```
 En caso de no poner alguna opcion solo genera el directorio.
+# Instalación
+```sh
+sudo snap install generator-dir
+```
 
 
 
