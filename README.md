@@ -19,12 +19,5 @@ generate-dir <nombre-carpeta> [OPCION]
 ```
 En caso de no poner alguna opcion solo genera el directorio.
 
-# Intalacion
-``` sh
-sudo apt update && sudo apt install -y software-properties-common
-
-sudo add-apt-repository ppa:superdroy34/gen-proyecto
-sudo apt update
-sudo apt install generate-dir
 
 
