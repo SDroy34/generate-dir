@@ -5,7 +5,7 @@ Es un proyecto para generar directorios para desarrollo de software como MVC o A
 
 ## Modo de uso
 ```sh
-generate-dir <nombre-carpeta> [OPCION]
+generate-dir [OPCION] <nombre-fichero>
 
 1 | --mvc | -m
 	- controllers
